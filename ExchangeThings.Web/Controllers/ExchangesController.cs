@@ -26,6 +26,14 @@ namespace ExchangeThings.Web.Controllers
                 
             };
             return View("ExchangesAdded", viewModel);
+            //return RedirectToAction("ExchangesAdded");
         }
+
+        /*[HttpGet]
+
+        public IActionResult ExchangesAdded()
+        {
+            return View();
+        }*/
     }
 }
