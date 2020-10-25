@@ -16,7 +16,7 @@
             // alertElement.style...
         }
     };
-    cs.addEventListener("click", () => {
+    window.addEventListener("click", () => {
         event.preventDefault();
         addNewItem().then(() => console.log("added successfully"));
     });
