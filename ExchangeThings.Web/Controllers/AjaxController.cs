@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ExchangeThings.Web.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ExchangeThings.Web.Controllers
@@ -9,11 +10,14 @@ namespace ExchangeThings.Web.Controllers
     [ApiController]
 
     [Route("api/[controller]")]
-    public class AjaxController : Controller
+
+    public class AjaxController : ControllerBase
     {
-        public IActionResult Post()
+        public Ajax Post()
         {
-            return View();
+            var res = new Ajax();
+            res.success = true;
+            return res;
         }
     }
 }

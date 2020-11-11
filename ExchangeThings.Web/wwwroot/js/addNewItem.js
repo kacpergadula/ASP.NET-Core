@@ -1,23 +1,31 @@
 ﻿(function () {
     const alertElement = document.getElementById("success-alert");
+    const buttons = document.getElementById("buttons");
     const formElement = document.forms[0];
 
     const addNewItem = async () => {
-        // 1. read data from the form
-        // const requestData = ...
+        const formData = new FormData(document.getElementById('form'))
 
-        // 2. call the application server using fetch method
-        // const response = await fetch(...);
+        const data = {}
 
-        const responseJson = await response.json();
+        formData.forEach((key, value) => {
+            data[value] = value[key];
+        });
 
-        if (responseJson.success) {
-            // 3. un-hide the alertElement when the request has been successfull
-            // alertElement.style...
+        const requestData = {
+            method: 'POST',
+            body: JSON.stringify(data)
+        };
+
+        const responseFetch = await fetch('/api/Ajax', requestData);
+
+        const response = await responseFetch.json();
+        if (response.success) {
+            alertElement.style.display = 'block';
         }
     };
-    window.addEventListener("click", () => {
+    buttons.addEventListener("click", () => {
         event.preventDefault();
         addNewItem().then(() => console.log("added successfully"));
     });
-});
+})();

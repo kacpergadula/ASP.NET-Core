@@ -115,3 +115,42 @@ C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labol
 C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web - kopia\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.pdb
 C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web - kopia\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.genruntimeconfig.cache
 C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web - kopia\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.csproj.CopyComplete
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.exe
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.deps.json
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.runtimeconfig.json
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.runtimeconfig.dev.json
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.dll
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.pdb
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.Views.dll
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\bin\Debug\netcoreapp3.1\ExchangeThings.Web.Views.pdb
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.csprojAssemblyReference.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.AssemblyInfoInputs.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.AssemblyInfo.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.RazorAssemblyInfo.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.RazorAssemblyInfo.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.TagHelpers.input.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.TagHelpers.output.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.RazorCoreGenerate.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Exchanges\Display.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Exchanges\ExchangesAdded.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.Views.pdb
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\staticwebassets\ExchangeThings.Web.StaticWebAssets.Manifest.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\staticwebassets\ExchangeThings.Web.StaticWebAssets.xml
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.dll
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.pdb
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.genruntimeconfig.cache
+C:\Users\Kacper\Desktop\Uczelnia\Rok 3\Programowanie w środowisku ASP.NET\Labolatoria\ExchangeThings.Web\ASP.NET-Core\ExchangeThings.Web\obj\Debug\netcoreapp3.1\ExchangeThings.Web.csproj.CopyComplete
