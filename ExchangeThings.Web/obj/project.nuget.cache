@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QSBJP/8ZM1oEn27BMosrrVP2TUu5rOUi1syM195cwCpZkK51SMeyVi+UXhFzVdnry0iFzvG+cAoEXV6kAmDXOw==",
+  "dgSpecHash": "rRpfP2V0pa0qs47Dqy4Gb0JSi/3tuUGBsDmXokR8I582fzdK6vhvhTnv3M/ToTlmLSMAaNKwllN2OW1jrvz5Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\Uczelnia\\Rok 3\\Programowanie w środowisku ASP.NET\\Labolatoria\\ExchangeThings.Web\\ASP.NET-Core\\ExchangeThings.Web\\ExchangeThings.Web.csproj",
+  "projectFilePath": "C:\\Users\\Kacper\\Desktop\\GitHub\\ASP.NET-Core\\ExchangeThings.Web\\ExchangeThings.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

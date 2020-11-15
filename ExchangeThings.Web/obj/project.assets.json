@@ -4966,11 +4966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\Uczelnia\\Rok 3\\Programowanie w środowisku ASP.NET\\Labolatoria\\ExchangeThings.Web\\ASP.NET-Core\\ExchangeThings.Web\\ExchangeThings.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Kacper\\Desktop\\GitHub\\ASP.NET-Core\\ExchangeThings.Web\\ExchangeThings.Web.csproj",
       "projectName": "ExchangeThings.Web",
-      "projectPath": "C:\\Users\\Kacper\\Desktop\\Uczelnia\\Rok 3\\Programowanie w środowisku ASP.NET\\Labolatoria\\ExchangeThings.Web\\ASP.NET-Core\\ExchangeThings.Web\\ExchangeThings.Web.csproj",
+      "projectPath": "C:\\Users\\Kacper\\Desktop\\GitHub\\ASP.NET-Core\\ExchangeThings.Web\\ExchangeThings.Web.csproj",
       "packagesPath": "C:\\Users\\Kacper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kacper\\Desktop\\Uczelnia\\Rok 3\\Programowanie w środowisku ASP.NET\\Labolatoria\\ExchangeThings.Web\\ASP.NET-Core\\ExchangeThings.Web\\obj\\",
+      "outputPath": "C:\\Users\\Kacper\\Desktop\\GitHub\\ASP.NET-Core\\ExchangeThings.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
