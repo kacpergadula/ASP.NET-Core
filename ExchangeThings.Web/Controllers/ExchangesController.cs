@@ -9,6 +9,7 @@ namespace ExchangeThings.Web.Controllers
 {
     public class ExchangesController : Controller
     {
+
         public IActionResult Display()
         {
             return View();
@@ -25,6 +26,7 @@ namespace ExchangeThings.Web.Controllers
                 IsHidden = !exchanges.IsVisible
                 
             };
+
             return View("ExchangesAdded", viewModel);
             //return RedirectToAction("ExchangesAdded");
         }
@@ -35,5 +37,6 @@ namespace ExchangeThings.Web.Controllers
         {
             return View();
         }*/
+
     }
 }
